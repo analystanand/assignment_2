@@ -1,5 +1,10 @@
-
-
+## Part 0: Getting Started
+```
+$ mkdir lib
+$ cd lib
+$ sudo curl https://soot-build.cs.uni-paderborn.de/public/origin/master/soot/soot-master/3.3.0/build/sootclasses-trunk-jar-with-dependencies.jar -o soot-3.3.0.jar
+```
+## Part 1: Control Flow Analysis - Finding Dominators
 
 ## Part 2: Data Flow Analysis - Call Graph Construction
 
